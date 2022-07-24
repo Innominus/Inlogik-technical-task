@@ -1,0 +1,15 @@
+/home/inno/local_code/projects/Inlogik/technical_task/bin/Debug/net7.0/technical_task
+/home/inno/local_code/projects/Inlogik/technical_task/bin/Debug/net7.0/technical_task.deps.json
+/home/inno/local_code/projects/Inlogik/technical_task/bin/Debug/net7.0/technical_task.runtimeconfig.json
+/home/inno/local_code/projects/Inlogik/technical_task/bin/Debug/net7.0/technical_task.dll
+/home/inno/local_code/projects/Inlogik/technical_task/bin/Debug/net7.0/technical_task.pdb
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.csproj.AssemblyReference.cache
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.GeneratedMSBuildEditorConfig.editorconfig
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.AssemblyInfoInputs.cache
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.AssemblyInfo.cs
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.csproj.CoreCompileInputs.cache
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.dll
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/refint/technical_task.dll
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.pdb
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/technical_task.genruntimeconfig.cache
+/home/inno/local_code/projects/Inlogik/technical_task/obj/Debug/net7.0/ref/technical_task.dll
