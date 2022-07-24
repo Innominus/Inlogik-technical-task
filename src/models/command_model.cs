@@ -16,6 +16,7 @@ namespace CommandModel {
         }
 
         public void PerformCommand(UserRecord userList, ProjectBoards projectBoards) {
+            // have left in write lines which were used for debugging
             switch(this.commandType) {
                 case CommandType.Posting:
                     Console.WriteLine("Posting to board: " + this.commandArgs[2].Replace("@", ""));
